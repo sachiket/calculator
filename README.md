@@ -1,6 +1,6 @@
 # CALCULATOR
 
-A Basic Calculator Application using JAVA.
+A basic calculator java application.
 
 ### Screenshots of Application
 ![](assets/cal.png)
