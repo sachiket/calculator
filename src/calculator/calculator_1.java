@@ -40,7 +40,7 @@ public class calculator_1 {
 	 * Create the application.
 	 */
 	public calculator_1() {
-		initialize();
+		initialize(); // initializes the function
 	}
 
 	/**
@@ -285,7 +285,7 @@ public class calculator_1 {
 					}
 					else{
 						b=Double.parseDouble(dis.getText());
-						switch(op){
+						switch(op){ 	// performing arithmetic operation
 						case 1: ans=a+b;
 						break;
 						case 2: ans=a-b;
