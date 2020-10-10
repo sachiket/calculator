@@ -12,6 +12,7 @@ import java.awt.Color;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+//Main class of Calculator Application
 public class calculator_1 {
 
 	private JFrame frame;
